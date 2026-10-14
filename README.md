@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AnImEsh015&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=AnImEsh015&label=PROFILE%20VIEWS&color=7AA2F7&style=flat-square)
   <img src="https://img.shields.io/badge/Focus-AI%2FML-7AA2F7?style=flat" alt="AI/ML" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to collaboration" />
 </p>
@@ -89,13 +89,15 @@
 
 <!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnImEsh015&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnImEsh015&theme=tokyonight" alt="GitHub contribution activity summary" width="100%" />
 
 </div>
+
 
 ---
 
