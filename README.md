@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/GitHub-AI%2FML-7AA2F7?style=flat-square&logo=github" alt="GitHub AI/ML badge" />
   <img src="https://img.shields.io/badge/GitHub-AI%2FML-7AA2F7?style=flat&logo=github" alt="GitHub AI/ML badge" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to collaboration" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to collaboration" />
 </p>
 
 </div>
