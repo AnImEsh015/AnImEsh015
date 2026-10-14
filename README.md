@@ -13,13 +13,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Real-World+ML+Projects;Exploring+Generative+AI+%26+Agentic+AI;Python+%7C+SQL+%7C+Machine+Learning;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG" />
 </p>
 
+
 <p>
-  
-  
-  <img src="https://img.shields.io/badge/GitHub-AI%2FML-7AA2F7?style=flat-square&logo=github" alt="GitHub AI/ML badge" />
-  <img src="https://img.shields.io/badge/GitHub-AI%2FML-7AA2F7?style=flat&logo=github" alt="GitHub AI/ML badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/GitHub-AI%2FML-7AA2F7?style=flat&logo=github" alt="GitHub AI/ML" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to Collaboration" />
 </p>
+
 
 </div>
 
