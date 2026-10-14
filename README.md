@@ -112,8 +112,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnImEsh015&repo=Capstone_Project&theme=tokyonight&hide_border=true" alt="Real Estate Recommendation and Pricing Engine" />
 </a>
 
-<a href="https://github.com/AnImEsh015/Movie_Recommender_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnImEsh015&repo=Movie_Recommender_System&theme=tokyonight&hide_border=true" alt="Movie Recommender System" />
+<a href="https://github.com/AnImEsh015/Outreach">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnImEsh015&repo=Outreach&theme=tokyonight&hide_border=true" alt="Outreach Project" />
 </a>
 
 <a href="https://github.com/AnImEsh015/SQL_project">
@@ -130,12 +130,14 @@
 
 🔗 [Source Code](https://github.com/AnImEsh015/Capstone_Project) · [Live Demo](https://capstone-project-xjwm.onrender.com)
 
-### 🎬 Movie Recommender System
 
-- Developed a recommendation system to suggest movies based on similarity.
-- Explored data preprocessing and machine learning techniques.
+### 🤖 Outreach
 
-🔗 [View Project](https://github.com/AnImEsh015/Movie_Recommender_System)
+- Building an AI-powered outreach tool to streamline prospecting and personalized communication.
+- Explore the project, implementation, and setup instructions in the repository.
+
+🔗 [View Project](https://github.com/AnImEsh015/Outreach)
+
 
 ### 🗄️ SQL Analytics Project
 
