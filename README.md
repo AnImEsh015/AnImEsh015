@@ -15,7 +15,8 @@
 
 <p>
   
-  <img src="https://komarev.com/ghpvc/?username=AnImEsh015&label=PROFILE%20VIEWS&color=7AA2F7&style=flat-square" alt="Profile Views" />
+  
+  <img src="https://img.shields.io/badge/GitHub-AI%2FML-7AA2F7?style=flat-square&logo=github" alt="GitHub AI/ML badge" />
   <img src="https://img.shields.io/badge/Focus-AI%2FML-7AA2F7?style=flat" alt="AI/ML" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to collaboration" />
 </p>
