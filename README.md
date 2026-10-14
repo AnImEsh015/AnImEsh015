@@ -1,33 +1,194 @@
-<h1 align="center">Hi 👋, I'm Animesh Kumar</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Python, SQL & Machine Learning</h3>
 
-- 🌱 I’m currently learning **Generative AI, LLMs, LangChain and Agentic AI**
+<!-- ==================== HEADER ==================== -->
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Data Science and AI Projects**
+<div align="center">
 
-- 📫 How to reach me **animeshk033@gmail.com**
+# Hi 👋, I'm Animesh Kumar
 
-- 📄 Know about my experiences [https://github.com/AnImEsh015](https://github.com/AnImEsh015)
+### Aspiring AI/ML Engineer | Data Science | Generative AI
 
-- ⚡ Fun fact **I've also worked as a freelance video editor, collaborating with 10+ clients and turning creative ideas into engaging videos!**
+🎓 Mechanical Engineering Student at NIT Durgapur
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ani_k03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ani_k03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/animesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/animesh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="animesh03" height="30" width="40" /></a>
-<a href="https://fb.com/animesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="animesh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/a_n_i_m_e_s_h_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_n_i_m_e_s_h_03" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/animeshk03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="animeshk03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/animeshk033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="animeshk033" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/animesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="animesh kumar" height="30" width="40" /></a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Real-World+ML+Projects;Exploring+Generative+AI+%26+Agentic+AI;Python+%7C+SQL+%7C+Machine+Learning;Turning+Ideas+Into+Practical+Solutions" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AnImEsh015&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-7AA2F7?style=flat" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-9ECE6A?style=flat" alt="Open to collaboration" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh015&show_icons=true&locale=en&layout=compact" alt="animesh015" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animesh015&show_icons=true&locale=en" alt="animesh015" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh015&" alt="animesh015" /></p>
+<!-- ==================== ABOUT ME ==================== -->
+
+## 👨‍💻 About Me
+
+- 🔭 Building practical **Machine Learning and AI applications**
+- 🌱 Currently learning **Generative AI, LLMs, LangChain and Agentic AI**
+- 🤖 Interested in **AI/ML Engineering, Data Science and intelligent systems**
+- 💻 Comfortable working with **Python, SQL, Scikit-learn and FastAPI**
+- 🎬 Freelance video editor with experience collaborating with **10+ clients**
+- 🤝 Interested in open-source projects and meaningful collaborations
+- ⚡ Fun fact: I enjoy combining technical problem-solving with creative work!
+
+💬 **Ask me about:** Python, SQL, Machine Learning, Data Science and AI projects.
+
+📫 **Reach me at:** [animeshk033@gmail.com](mailto:animeshk033@gmail.com)
+
+🔗 **GitHub:** [@AnImEsh015](https://github.com/AnImEsh015)
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Programming languages" />
+
+### Data Science and Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="Machine learning tools" />
+
+### Databases, Backend and Deployment
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,fastapi,git,github" alt="Backend and database tools" />
+
+</div>
+
+**Also working with:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LangChain, Streamlit and REST APIs.
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnImEsh015&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnImEsh015&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnImEsh015&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="75%" />
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnImEsh015&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" width="100%" />
+
+</div>
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AnImEsh015/Capstone_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnImEsh015&repo=Capstone_Project&theme=tokyonight&hide_border=true" alt="Real Estate Recommendation and Pricing Engine" />
+</a>
+
+<a href="https://github.com/AnImEsh015/Movie_Recommender_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnImEsh015&repo=Movie_Recommender_System&theme=tokyonight&hide_border=true" alt="Movie Recommender System" />
+</a>
+
+<a href="https://github.com/AnImEsh015/SQL_project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnImEsh015&repo=SQL_project&theme=tokyonight&hide_border=true" alt="SQL Analytics Project" />
+</a>
+
+</div>
+
+### 🏡 Real Estate Recommendation & Pricing Engine
+
+- Built a real estate recommendation and price prediction platform.
+- Worked with property listings, data preprocessing and regression models.
+- Developed an API using FastAPI and containerized the backend with Docker.
+
+🔗 [Source Code](https://github.com/AnImEsh015/Capstone_Project) · [Live Demo](https://capstone-project-xjwm.onrender.com)
+
+### 🎬 Movie Recommender System
+
+- Developed a recommendation system to suggest movies based on similarity.
+- Explored data preprocessing and machine learning techniques.
+
+🔗 [View Project](https://github.com/AnImEsh015/Movie_Recommender_System)
+
+### 🗄️ SQL Analytics Project
+
+- Practiced SQL-based analysis using multiple datasets.
+- Worked with data retrieval, joins, aggregations and analytical queries.
+
+🔗 [View Project](https://github.com/AnImEsh015/SQL_project)
+
+---
+
+<!-- ==================== REPOSITORY OVERVIEW ==================== -->
+
+## 📁 Repository Overview
+
+<div align="center">
+
+<a href="https://github.com/AnImEsh015?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+</a>
+
+<img src="https://img.shields.io/github/followers/AnImEsh015?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+
+<img src="https://img.shields.io/badge/Projects-AI%20%7C%20ML%20%7C%20SQL-7AA2F7?style=for-the-badge" alt="Project categories" />
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/AnImEsh015">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:animeshk033@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.kaggle.com/animesh03">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+
+</div>
+
+<div align="center">
+
+### 💡 "Learning by building, improving by experimenting."
+
+⭐ Thanks for visiting my profile!
+
+</div>
